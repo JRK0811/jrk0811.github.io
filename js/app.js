@@ -141,7 +141,7 @@ $(function() {
 	var categories = window.cats = new CategoriesCollection([
 		{
 			name: 'Vespucci',
-			icon: 'icons/General/pistol.png',
+			icon: 'General/pistol.png',
 			type: 'Business',
 			enabled: true
 		},
