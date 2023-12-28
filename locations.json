@@ -1,0 +1,1078 @@
+[
+  {
+    "id":1,
+    "type":"Vespucci",
+    "title":"Vespucci-Kanale Prosperity St PD",
+    "notes":"Befindet sich am oberen Parkplatz des Vespucci PDs.",
+    "order":0,
+    "lat":66.586,
+    "lng":-135.627
+  },
+  {
+    "id":2,
+    "type":"Vespucci",
+    "title":"Vespucci-Kanäle Vespucci BLVD",
+    "notes":"Unter der Brücke!",
+    "order":2,
+    "lat":66.064,
+    "lng":-136.955,
+    "video":{
+      "yt_id":"k2_zxkmiGWE",
+      "yt_user":"Olli43",
+      "start":"1:39",
+      "end":"2:51"
+    }
+  },
+  {
+    "id":3,
+    "type":"Vespucci",
+    "title":"Vespucci Kanäle Süd-Osten",
+    "notes":"Hinter dem Haus.",
+    "order":1,
+    "lat":65.589,
+    "lng":-132.949
+  },
+  {
+    "id":4,
+    "type":"Vespucci",
+    "title":"Del Perro Beach Pier",
+    "notes":"Auf dem Großen Parkplatz neben dem Pier.",
+    "order":2,
+    "lat":66.360,
+    "lng":-140.304
+  },
+  {
+    "id":5,
+    "type":"Vespucci",
+    "title":"Del Perro / Dep Perro FWY Parkhaus",
+    "notes":"Kann sich auf unterschiedlichen Etagen befinden.",
+    "order":3,
+    "lat":67.312,
+    "lng":-136.351,
+    "video":{
+      "yt_id":"YtjnGkGeWzM",
+      "yt_user":"KingCodShots",
+      "start":"0:33",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":6,
+    "type":"Grapeseed",
+    "title":"San-Chianski-Bergkette nähe Silo",
+    "notes":"Bei der Scheune!",
+    "order":4,
+    "lat":80.652,
+    "lng":-96.181
+  },
+  {
+    "id":7,
+    "type":"Sandy",
+    "title":"Trailerpark Mittig",
+    "notes":"Befindet sich mittig von den Wohnwagen.",
+    "order":5,
+    "lat":79.077,
+    "lng":-123.998
+  },
+  {
+    "id":8,
+    "type":"Stadt",
+    "title":"Südlich Cypress Schmelze",
+    "notes":"Wahrscheinlich am Straßenrand stehend (nicht bekannt).",
+    "order":6,
+    "lat":61.007,
+    "lng":-114.301
+  },
+  {
+    "id":9,
+    "type":"Stadt",
+    "title":"Echorock Plaza",
+    "notes":"Befindet sich in einer Einfahrt (sehr leicht zu übersehen).",
+    "order":7,
+    "lat":68.896,
+    "lng":-124.293
+  },
+  {
+    "id":10,
+    "type":"Harmony",
+    "title":"Triaden Baustelle",
+    "notes":"Sollte sich direkt am alten Kevlar-Verarbeiter befinden!",
+    "order":8,
+    "lat":75.914,
+    "lng":-116.284
+  },
+  {
+    "id":11,
+    "type":"Sandy",
+    "title":"Sandy Shores nähe See",
+    "notes":"Altes Lost Lab.",
+    "order":9,
+    "lat":79.180,
+    "lng":-109.838
+  },
+  {
+    "id":12,
+    "type":"Sandy",
+    "title":"Sandy Shores Nord West",
+    "notes":"Südlich vom Alamo See",
+    "order":10,
+    "lat":78.910,
+    "lng":-112.209
+  },
+  {
+    "id":13,
+    "type":"West-Highway",
+    "title":"Westlich Ford Zancudo",
+    "notes":"Westlich auf dem Sandweg vom Fort Zancudo Army Base.",
+    "order":11,
+    "lat":78.550,
+    "lng":-153.773
+  },
+  {
+    "id":14,
+    "type":"West-Highway",
+    "title":"Westhigway Banham Ca.",
+    "notes":"Hinter der Fleeca-Bank.",
+    "order":12,
+    "lat":71.224,
+    "lng":-153.169
+  },
+  {
+    "id":15,
+    "type":"Berge",
+    "title":"Weinberge",
+    "notes":"Altes Brigada/Irish Anwesen.",
+    "order":13,
+    "lat":75.506,
+    "lng":-143.072
+  },
+  {
+    "id":16,
+    "type":"East-Highway",
+    "title":"Südlicher East Highway",
+    "notes":"Pumpwerk",
+    "order":14,
+    "lat":72.168,
+    "lng":-109.833
+  },
+  {
+    "id":17,
+    "type":"Sandy",
+    "title":"East Highway You Tools",
+    "notes":"Hinter Baumarkt auf dem Parkplatz/Export Händler",
+    "order":15,
+    "lat":78.745,
+    "lng":-98.647
+  },
+  {
+    "id":18,
+    "type":"West-Highway",
+    "title":"Südlicher West Highway - BahamCanyen",
+    "notes":"Am 24/7.",
+    "order":16,
+    "lat":71.689,
+    "lng":-154.322
+  },
+  {
+    "id":19,
+    "type":"Paleto",
+    "title":"Paleto Süden 1",
+    "notes":"Beim Sex Shop",
+    "order":17,
+    "lat":82.927,
+    "lng":-127.480
+  },
+  {
+    "id":20,
+    "type":"Paleto",
+    "title":"Paleto Süden 2",
+    "notes":"Gegenüber des PDs auf dem Parkplatz beim Benzin-Tanker",
+    "order":18,
+    "lat":82.650,
+    "lng":-127.161
+  },
+  {
+    "id":21,
+    "type":"Paleto",
+    "title":"Paleto Norden 1",
+    "notes":"Paleto Baustelle.",
+    "order":19,
+    "lat":83.227,
+    "lng":-123.815
+  },
+  {
+    "id":22,
+    "type":"Paleto",
+    "title":"Paleto Norden 2",
+    "notes":"Hinter der Garage.",
+    "order":20,
+    "lat":82.929,
+    "lng":-124.321
+  },
+  {
+    "id":23,
+    "type":"Paleto",
+    "title":"Paleto Mitte",
+    "notes":"Falcone Base / vor der Bank /Hinter der Deutschen KücheSteht meistens in den Gassen",
+    "order":21,
+    "lat":83.097,
+    "lng":-125.728
+  },
+  {
+    "id":24,
+    "type":"Paleto",
+    "title":"Paleto Parkplatz",
+    "notes":"Bei Willies",
+    "order":22,
+    "lat":83.227,
+    "lng":-125.102
+  },
+  {
+    "id":25,
+    "type":"Paleto",
+    "title":"Paleto Farm Nord",
+    "notes":"Beim Kaffee Feld",
+    "order":23,
+    "lat":83.203,
+    "lng":-120.411
+  },
+  {
+    "id":26,
+    "type":"Paleto",
+    "title":"Paleto Seilbahn",
+    "notes":"Auf dem Parkplatz",
+    "order":25,
+    "lat":81.987,
+    "lng":-132.066
+  },
+  {
+    "id":27,
+    "type":"Paleto",
+    "title":"Sägewerk 1",
+    "notes":"Alte HoH Base",
+    "order":24,
+    "lat":82.313,
+    "lng":-131.421
+  },
+  {
+    "id":28,
+    "type":"Paleto",
+    "title":"Sägewerk 2",
+    "notes":"Westlich vom Sägewerk",
+    "order":25,
+    "lat":81.698,
+    "lng":-130.191
+  },
+  {
+    "id":29,
+    "type":"West-Highway",
+    "title":"West-Highway Nähe Diner",
+    "notes":"Steht an der Baustelle die kommend von Süden auf der rechten Seite ist",
+    "order":26,
+    "lat":79.657,
+    "lng":-147.380
+  },
+  {
+    "id":30,
+    "type":"West-Highway",
+    "title":"West-Highway Naturschutztanke",
+    "notes":"Auf dem Parkkplatz",
+    "order":27,
+    "lat":76.232,
+    "lng":-149.157
+  },
+  {
+    "id":31,
+    "type":"Stadt",
+    "title":"Westhighway Stadt nähe Crastenburg",
+    "notes":"Befindet sich in einer Gasse",
+    "order":28,
+    "lat":68.205,
+    "lng":-142.226
+  },
+  {
+    "id":32,
+    "type":"Stadt",
+    "title":"West-Highway Stadt gegenüber des Friedhofs",
+    "notes":"Befindet sich hinter den Geäuden in einer kleinen Nebengasse",
+    "order":30,
+    "lat":68.298,
+    "lng":-140.707
+  },
+  {
+    "id":33,
+    "type":"West-Highway",
+    "title":"Pier nähe Chumash",
+    "notes":"Befindet sich auf dem Parkplatz des 24/7 am Pier",
+    "order":31,
+    "lat":72.753,
+    "lng":-156.189
+  },
+  {
+    "id":34,
+    "type":"Stadt",
+    "title":"Rockford Plaza unten Parkplatz",
+    "notes":"Befindet sich im Rockford Plaza unten auf dem Parkplatz (Export Händler)",
+    "order":32,
+    "lat":69.071,
+    "lng":-126.454
+  },
+  {
+    "id":35,
+    "type":"Stadt",
+    "title":"Rockford Plaza/Ponsonbys",
+    "notes":"Gegenüber des Bekleidungsladen",
+    "order":33,
+    "lat":68.500,
+    "lng":-125.769
+  },
+  {
+    "id":36,
+    "type":"Stadt",
+    "title":"Östlich Rockford Plaza",
+    "notes":"In einer Gasse nicht zu übersehen",
+    "order":34,
+    "lat":68.923,
+    "lng":-124.778
+  },
+  {
+    "id":37,
+    "type":"Stadt",
+    "title":"Nähe Juwelier",
+    "notes":"Schwer zu beschreiben, sind Bankautomaten mit einem Parkplatz davor",
+    "order":35,
+    "lat":68.222,
+    "lng":-131.701
+  },
+  {
+    "id":38,
+    "type":"Stadt",
+    "title":"Südlich KH3/Alter Hochzeitsladen",
+    "notes":"Befindet sich in der Nebenstraße südlich der SStraße von KH3",
+    "order":36,
+    "lat":68.078,
+    "lng":-130.109
+  },
+  {
+    "id":39,
+    "type":"Stadt",
+    "title":"Rockford Plaza Baustelle",
+    "notes":"Südlich der Baustelle",
+    "order":37,
+    "lat":68.064,
+    "lng":-124.000
+  },
+  {
+    "id":40,
+    "type":"Stadt",
+    "title":"Richards Majestic Hotel/nähe Fleecabank",
+    "notes":"Befindet sich westlich der Fleeca-Bank in einer Hotel Durchfahrt",
+    "order":38,
+    "lat":68.183,
+    "lng":-137.089
+  },
+  {
+    "id":41,
+    "type":"Harmony",
+    "title":"Harmony Feldweg nördlich der Route 68 nähe SG",
+    "notes":"Stehen Wohnwagen (nicht zu übersehen)",
+    "order":39,
+    "lat":77.483,
+    "lng":-109.207
+  },
+  {
+    "id":42,
+    "type":"Harmony",
+    "title":"Route 68 alte Garage Parkplatz",
+    "notes":"Nicht zu übersehen!",
+    "order":40,
+    "lat":76.994,
+    "lng":-135.738
+  },
+  {
+    "id":43,
+    "type":"Harmony",
+    "title":"Kirche",
+    "notes":"Auf dem Feldwegartigen Parkplatz dahinter südlich",
+    "order":41,
+    "lat":77.124,
+    "lng":-127.689
+  },
+  {
+    "id":44,
+    "type":"Harmony",
+    "title":"Rebel Radio Station (südlich Route 68)",
+    "notes":"An der Radiostation auf dem Parkplatz",
+    "order":42,
+    "lat":76.665,
+    "lng":-117.342,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Breached in the ship",
+        "url":"http://i.imgur.com/zPwyyNm.jpg",
+        "author":"/u/bowsereatspeaches",
+        "contact":"http://www.reddit.com/user/bowsereatspeaches"
+      }
+    ]
+  },
+  {
+    "id":45,
+    "type":"Harmony",
+    "title":"Garage Parkplatz vorne",
+    "notes":"Bei der Harmony Garage vorne auf dem Parkplatz",
+    "order":43,
+    "lat":77.118,
+    "lng":-119.055
+  },
+  {
+    "id":46,
+    "type":"Stadt",
+    "title":"Parkhaus am Golfplatz/Lous Stripclub",
+    "notes":"Kann sich auf jeder Etage befinden",
+    "order":3,
+    "lat":68.904,
+    "lng":-137.057
+  },
+  {
+    "id":47,
+    "type":"Stadt",
+    "title":"Nördlich der KH1 Fleeca-Bank",
+    "notes":"In einer Nebenstraße/Gasse",
+    "order":4,
+    "lat":69.043,
+    "lng":-121.395
+  },
+  {
+    "id":48,
+    "type":"Stadt",
+    "title":"Unter der Brücke/Schwarzmarkt",
+    "notes":"Nähe des Schwarzmarkt unter der Brücke",
+    "order":5,
+    "lat":65.016,
+    "lng":-125.032
+  },
+  {
+    "id":49,
+    "type":"Grapeseed",
+    "title":"Nördliche Scheune",
+    "notes":"Entweder neben der Scheune oder daneben",
+    "order":6,
+    "lat":81.458,
+    "lng":-105.499
+  },
+  {
+    "id":50,
+    "type":"Grapeseed",
+    "title":"Nähe Orangen 1",
+    "notes":"Auf dem Feldweg nördlich",
+    "order":7,
+    "lat":80.153,
+    "lng":-98.215
+  },
+  {
+    "id":51,
+    "type":"Grapeseed",
+    "title":"Nähe Orangen 2",
+    "notes":"Auf dem Feldweg südliches Gebäude",
+    "order":8,
+    "lat":79.824,
+    "lng":-98.215
+  },
+  {
+    "id":52,
+    "type":"Grapeseed",
+    "title":"Wasserturm",
+    "notes":"Keine aktuellen Informationen",
+    "order":9,
+    "lat":80.973,
+    "lng":-108.026
+  },
+  {
+    "id":53,
+    "type":"Grapeseed",
+    "title":"Nördlich altem Aramidfeld",
+    "notes":"Bei einem Schrottgebäude",
+    "order":10,
+    "lat":81.172,
+    "lng":-105.071
+  },
+  {
+    "id":54,
+    "type":"Grapeseed",
+    "title":"Südlich des Chicken Felds",
+    "notes":"Bei 2 Scheunen/Hallen",
+    "order":11,
+    "lat":80.690,
+    "lng":-99.613
+  },
+  {
+    "id":55,
+    "type":"Aramid",
+    "title":"Aramidfeld (Sichel)",
+    "notes":"Aramidfeld/Westenfeld !BENÖTIGT SICHEL!",
+    "order":60,
+    "lat":80.641,
+    "lng":-97.005
+  },
+  {
+    "id":56,
+    "type":"Aramid",
+    "title":"Workstation",
+    "notes":"Aramidfasern -> Kevlar, Einmieten: 2500$",
+    "order":13,
+    "lat":59.291,
+    "lng":-127.124
+  },
+  {
+    "id":57,
+    "type":"Plastik",
+    "title":"Kautschukfeld (Eimer)",
+    "notes":"Plastik bzw. Kautschukfeld (An den Bäumen) !BENÖTIGT EIMER!",
+    "order":14,
+    "lat":75.925,
+    "lng":-109.873
+  },
+  {
+    "id":58,
+    "type":"Plastik",
+    "title":"Verarbeiter",
+    "notes":"Keine weiteren Infos",
+    "order":15,
+    "lat":63.328,
+    "lng":-130.641
+  },
+  {
+    "id":59,
+    "type":"Chicken",
+    "title":"Chickenfeld (Käfig)",
+    "notes":"An den Unterständen !BENÖTIGT KÄFIG!",
+    "order":16,
+    "lat":80.829,
+    "lng":-100.228
+  },
+  {
+    "id":60,
+    "type":"Chicken",
+    "title":"Workstation",
+    "notes":"Befindet sich in der Lucky Plucker Fabrikhalle",
+    "order":17,
+    "lat":82.919,
+    "lng":-125.171
+  },
+  {
+    "id":61,
+    "type":"Morphin",
+    "title":"Mohnfeld (Sichel)",
+    "notes":"Kann auf beiden FLussseiten farmen !BENÖTIGT SICHEL!",
+    "order":18,
+    "lat":76.859,
+    "lng":-146.945
+  },
+  {
+    "id":62,
+    "type":"Morphin",
+    "title":"1. Verarbeiter",
+    "notes":"Mohn -> Rohopium",
+    "order":19,
+    "lat":74.684,
+    "lng":-109.838
+  },
+  {
+    "id":63,
+    "type":"Morphin",
+    "title":"Endverarbeiter",
+    "notes":"Rohopium -> Morphin (Befindet sich in einer alten Garage)",
+    "order":20,
+    "lat":76.793,
+    "lng":-102.013
+  },
+  {
+    "id":64,
+    "type":"Natrium",
+    "title":"Natriumfeld (Spitzhacke)",
+    "notes":"An den großen Felsen !BENÖTIGT SPITZHACKE!",
+    "order":21,
+    "lat":67.250,
+    "lng":-97.709
+  },
+  {
+    "id":65,
+    "type":"Natrium",
+    "title":"Verarbeiter",
+    "notes":"Steine -> Natriumcarbonat",
+    "order":22,
+    "lat":63.434,
+    "lng":-107.726
+  },
+  {
+    "id":66,
+    "type":"Vehicles",
+    "title":"Declasse Voodoo",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":23,
+    "lat":79.163,
+    "lng":-109.863,
+    "video":{
+      "yt_id":"rz-3qCaHbiQ",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:25",
+      "end":"2:38"
+    }
+  },
+  {
+    "id":66,
+    "type":"Vehicles",
+    "title":"Declasse Rancher XL",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":24,
+    "lat":56.487,
+    "lng":-143.152,
+    "video":{
+      "yt_id":"rz-3qCaHbiQ",
+      "yt_user":"Dat Saintsfan",
+      "start":"3:00",
+      "end":"3:38"
+    }
+  },
+  {
+    "id":67,
+    "type":"Vehicles",
+    "title":"Western Bagger",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":25,
+    "lat":69.870,
+    "lng":-138.065,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:35",
+      "end":"1:05"
+    }
+  },
+  {
+    "id":68,
+    "type":"Vehicles",
+    "title":"Benefactor Schafter",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":26,
+    "lat":70.002,
+    "lng":-138.109,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:10",
+      "end":"1:30"
+    }
+  },
+  {
+    "id":69,
+    "type":"Vehicles",
+    "title":"Principe Nemesis",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":27,
+    "lat":66.522,
+    "lng":-131.331,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:10",
+      "end":"2:40"
+    }
+  },
+  {
+    "id":70,
+    "type":"Vehicles",
+    "title":"Duneloader",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":28,
+    "lat":77.518,
+    "lng":-123.223,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:53",
+      "end":"4:10"
+    }
+  },
+  {
+    "id":71,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:53:43+00:00",
+    "title":"House in West Vinewood",
+    "notes":"Go to location indicated and enter the yard through the entrance shown in the images. Take a right and follow the building until it meets a white wall near a tree. Climb this wall and go West (left) to reach the back of the house. Run up to the starting position, where the grass meets the dirt such that you are facing South towards the small part of the house. Run down towards and then against the wall shown while spamming X/A. You will then slide into the house. Don't forget a parachute for more fun!",
+    "order":46,
+    "lat":71.085,
+    "lng":-125.343,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Entrance to the front yard of the house.",
+        "url":"http://i.imgur.com/JCGyC9h.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Eastern side of the house showing way to back of house.",
+        "url":"http://i.imgur.com/7AFpGjJ.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Looking towards back of house/position to stand in.",
+        "url":"http://i.imgur.com/kUdyjCx.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"4",
+        "headline":"View from starting position to wall-breach.",
+        "url":"http://i.imgur.com/Xm4uCqe.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":72,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:57:19+00:00",
+    "title":"Road Near Airport LSC",
+    "notes":"Go to location indicated and find the group of trees shown as a guide. Locate the second support beam, that is jutting from the road, to the left of the group of trees and stand to the right of this beam. Run or jump such that you character falls into the small space to the right of the support beam. If done correctly your character will breach the wall after erecting him/herself.",
+    "order":47,
+    "lat":62.684,
+    "lng":-133.748,
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/Tsilent_Tsunami",
+        "where":"http://www.reddit.com/user/Tsilent_Tsunami"
+      }
+    ],
+    "images":[
+      {
+        "id":"1",
+        "headline":"Driving Northeast away from the airport LSC, showing the group of trees to use as a guide.",
+        "url":"http://i.imgur.com/aoLXFSL.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Looking towards the guide-trees, arrow indicating where to stand.",
+        "url":"http://i.imgur.com/PZTot5L.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Standing on rocks, facing the breach.",
+        "url":"http://i.imgur.com/OsnrODu.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"4",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/SjEGgBE.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":73,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:59:32+00:00",
+    "title":"Parking Garage Under Tennis Courts in La Puerta",
+    "notes":"Go to location indicated and locate the bushes to the right of the fenced-off entrance of the parking garage. Stand between the two bushes shown and press Box to climb in.",
+    "order":48,
+    "lat":64.919,
+    "lng":-133.473,
+    "images":[
+      {
+        "id":"1",
+        "headline":"View of the back of the parking garage.",
+        "url":"http://i.imgur.com/oMDPhwx.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Bushes with arrow showing location to stand in, and face the wall.",
+        "url":"http://i.imgur.com/nRDArIs.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/za7iWhh.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":74,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:02:02+00:00",
+    "title":"Parking Garage in Rockford Hills",
+    "notes":"Go to the location as seen on the interactive map--a parking garage across from the east-side Ammunation--enter the second level of the parking garage and walk to the red-brick structure as seen in the pictures. Walk to, and face, the western wall of this structure. Simply walk through the rightmost side of this wall to breach.",
+    "order":49,
+    "lat":68.265,
+    "lng":-136.373,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Level 2 looking towards the red-brick structure.",
+        "url":"http://i.imgur.com/rPLiKhS.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Facing the western wall of the structure.",
+        "url":"http://i.imgur.com/jLskpcA.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/lETeRjt.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":75,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:04:53+00:00",
+    "title":"Bridge in La Mesa",
+    "notes":"Go to location indicated and walk to the eastern-most strut on the northern side of the bridge. Walk where indicated and face west as shown. Walk up to the indicated wall and press Box to climb in.",
+    "order":50,
+    "lat":66.005,
+    "lng":-118.356,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Facing the bridge support with the breach.",
+        "url":"http://i.imgur.com/D2GOrZM.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Looking at the wall with the breach.",
+        "url":"http://i.imgur.com/7VYKRPi.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/KF47Bks.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":76,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:07:24+00:00",
+    "title":"Airport LSC Wall-breach",
+    "notes":"Go to the location as noted and stand behind the LSC. Park a car between the two shutter-doors that are directly right of the small crane. Climb onto the car you parked, face the wall and press Box to breach the wall.",
+    "order":51,
+    "lat":61.507,
+    "lng":-135.813,
+    "video":{
+      "yt_id":"LoJtZ66wFUc",
+      "yt_user":"TwistedVargas",
+      "start":"0:12",
+      "end":"1:23"
+    }
+  },
+  {
+    "id":77,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T18:57:35+00:00",
+    "title":"Rollercoaster seat glitch",
+    "notes":"Go to Rollercoaster. Choose a seat on the Rollercoaster. Someone can choose the same seat as you and will sit \"inside\" of you. (More people can also sit in the same exact seat)",
+    "order":1,
+    "lat":65.568,
+    "lng":-140.625,
+    "video":{
+      "yt_id":"ttvvrF4_wIY",
+      "yt_user":"speedyw03",
+      "start":"2:30",
+      "end":"5:10"
+    }
+  },
+  {
+    "id":78,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:17:08+00:00",
+    "title":"Walk on water/air",
+    "notes":"Head over to the helipad near Los Santos Customs. Walk over to the wall near the water and lean on it. Walk to your left until the gun is under the water. Aim the gun at the wall and it will switch to the knife (then you know the glitch worked). Head back to the ramp. Now turn around and walk back to the water. And now you'll be walking on water.",
+    "order":2,
+    "lat":64.063,
+    "lng":-132.286,
+    "video":{
+      "yt_id":"Ziwfl3L0WQo",
+      "yt_user":"Official Digital HDx Productions",
+      "start":"0:05",
+      "end":"1:20"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/SolarGlitch",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/29t5q9/walk_on_water_and_air_115/"
+      }
+    ]
+  },
+  {
+    "id":79,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:26:35+00:00",
+    "title":"Gate/swing set glitch",
+    "notes":"Go to the location as noted. Let your friend lean against the wall like you saw in the video. Now drive slowly into the gate.",
+    "order":3,
+    "lat":72.663,
+    "lng":-125.947,
+    "video":{
+      "yt_id":"NXT2c5LNEis",
+      "yt_user":"Olli43",
+      "start":"0:30",
+      "end":"1:50"
+    }
+  },
+  {
+    "id":80,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:26:35+00:00",
+    "title":"Gate/swing set glitch #2",
+    "notes":"Go to the location as noted. Let your friend lean against the wall like you saw in the video. Now drive slowly into the gate.",
+    "order":4,
+    "lat":71.159,
+    "lng":-135.439,
+    "video":{
+      "yt_id":"WcPUPI7dolE",
+      "yt_user":"Munchsz",
+      "start":"0:02",
+      "end":"0:10"
+    }
+  },
+  {
+    "id":81,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-06T13:26:35+00:00",
+    "title":"Gentry Manor",
+    "notes":"Get a helicopter and fly up around the area of Eclipse Towers, When you see a Team Deathmatch that's where you need to be. If you're looking at the front on the right hand side on the roof, You'll see a smokestack and a corner by a terrace. Fly as high as you need to parachute, or land a bit and jump out if you're able. Run to the corner if you're not there already and walk into it or you'll fall through the building.",
+    "order":52,
+    "lat":70.830,
+    "lng":-125.376,
+    "video":{
+      "yt_id":"qou4Umj5nFU",
+      "yt_user":"Bob Smith",
+      "start":"0:12",
+      "end":"2:45"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/ThebeastlyGod",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/2a0lrq/gentry_manor_wallbreach/"
+      }
+    ]
+  },
+  {
+    "id":82,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-17T17:40:15+00:00",
+    "title":"Military base tower (easy)",
+    "notes":"Call Lester for blind eye. Walk up to the right side of the wall by the green door. Keep jumping/ punching the air.",
+    "order":53,
+    "lat":78.195,
+    "lng":-147.601,
+    "video":{
+      "yt_id":"89fy4pOYHtk",
+      "yt_user":"TechnoDucky",
+      "start":"0:55",
+      "end":"1:30"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/dewar420",
+        "where":"http://www.reddit.com/user/dewar420"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/TechnoDucky",
+        "where":"http://www.reddit.com/user/TechnoDucky"
+      }
+    ]
+  },
+  {
+    "id":83,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-17T17:48:06+00:00",
+    "title":"Martins mansion (with bike)",
+    "notes":"Reach the patio of the house just NW of Martin's house on a motorbike (you can use the slanted rock to the right of Martin's driveway as a ramp). Once on the patio of Martin's neighbor, position yourself so you are facing Martin's house (give yourself room to pick up speed). Begin driving towards Martin's roof while tilting backwards on the bike. If done correctly, you will hit the short wall and hop into the air, giving yourself enough airtime to reach Martin's roof. Drive slowly off the back of Martin's roof so that you land on his patio overlooking the city. Facing away from Martin's house, turn right and go as far as you can around the patio. You will reach a corner with those gray utility meters. Drive slowly through the corner to the right of the utility meters. You should go straight through the wall.",
+    "order":54,
+    "lat":71.819,
+    "lng":-134.681,
+    "video":{
+      "yt_id":"Di46A7bgW-Q",
+      "yt_user":"DeviantAmaZed",
+      "start":"0:12",
+      "end":"1:10"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"Avxry",
+        "where":"http://www.se7ensins.com/members/avxry.493411/"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/RustyTank",
+        "where":"http://www.reddit.com/user/RustyTank"
+      }
+    ]
+  },
+  {
+    "id":84,
+    "type":"Glitches",
+    "timestamp":"2014-07-07T10:49:21+00:00",
+    "title":"Skateboard/Surfboard",
+    "notes":"Go to the location on the beach with lots of blue fences. Run anyone of them over. Stand in the center of the fence. Shoot at the top to go forward.",
+    "order":5,
+    "lat":67.114,
+    "lng":-141.328,
+    "video":{
+      "yt_id":"p7mf0A9RP0Y",
+      "yt_user":"CoreyM1469",
+      "start":"0:03",
+      "end":"0:40"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"CoreyM1469",
+        "where":"http://www.reddit.com/user/CoreyM1469"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/RustyTank",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/2crrn8/gta_skateboardsurfboard_glitch/"
+      }
+    ]
+  }
+]
